@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/mac/Desktop/Trello_bot/model.tflearn"
+all_model_checkpoint_paths: "/Users/mac/Desktop/Trello_bot/model.tflearn"
